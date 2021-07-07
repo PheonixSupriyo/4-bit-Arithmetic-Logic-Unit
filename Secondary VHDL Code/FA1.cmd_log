@@ -1,0 +1,7 @@
+xst -ise "C:/Xilinx/FA1/FA1.ise" -intstyle ise -ifn FA1.xst -ofn FA1.syr
+xst -ise "C:/Xilinx/FA1/FA1.ise" -intstyle ise -ifn FA1.xst -ofn FA1.syr
+xst -ise "C:/Xilinx/FA1/FA1.ise" -intstyle ise -ifn FA1.xst -ofn FA1.syr
+xst -ise "C:/Xilinx/FA1/FA1.ise" -intstyle ise -ifn FA1.xst -ofn FA1.syr
+xst -ise "C:/Xilinx/FA1/FA1.ise" -intstyle ise -ifn FA1.xst -ofn FA1.syr
+xst -ise "C:/Xilinx/FA1/FA1.ise" -intstyle ise -ifn FA1.xst -ofn FA1.syr
+xst -ise "C:/Xilinx/FA1/FA1.ise" -intstyle ise -ifn FA1.xst -ofn FA1.syr
